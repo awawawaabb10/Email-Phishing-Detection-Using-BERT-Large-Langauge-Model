@@ -1,4 +1,4 @@
-#📧 Email Phishing Detection Using BERT Large Language Model
+#Email Phishing Detection Using BERT Large Language Model
 
 📌 Deskripsi
 
